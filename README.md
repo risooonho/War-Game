@@ -47,3 +47,6 @@ As I mention before, for the purpose of this game, a perspective camera is used 
 * B - drop bombs
 * P - pause game
 * ESC - main menu
+
+## Copyright and license
+Code and documentation Copyright (c) 2015 Stefan Cvetkovski. Code released under the [MIT license](https://github.com/scvetkovski/War-Game/blob/master/LICENSE). 
