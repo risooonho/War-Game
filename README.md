@@ -33,3 +33,6 @@ Same goes for the main boss weapons.
 
 ![explossion](http://s28.postimg.org/555vouelp/Screenshot_10.png) 
 
+As I mention before, for the purpose of this game, a perspective camera is used to catch this 3D effect. If a simple ortogonal camera is used, this would look like an ordinary 2D game, and it wouldn't be that interesting.
+
+![explossion](http://s11.postimg.org/lon5q4asj/Screenshot_11.png)
